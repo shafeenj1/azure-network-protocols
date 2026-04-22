@@ -9,7 +9,7 @@ This tutorial outlines the implementation of creating Azure Virtual Machines.<br
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
+- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com/watch?v=yvpoFQ_VAj0)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -29,6 +29,10 @@ This tutorial outlines the implementation of creating Azure Virtual Machines.<br
 - Step 2
 - Step 3
 - Step 4
+- Step 5
+- Step 6
+- Step 7
+- Step 8
 
 <h2>Deployment Steps</h2>
 
