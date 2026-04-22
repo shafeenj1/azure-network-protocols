@@ -3,7 +3,7 @@
 "/>
 </p>
 
-<h1>On-premises Virtual Machines Deployed in the Cloud (Azure)</h1>
+<h1>Creating Virtual Machines (Azure)</h1>
 This tutorial outlines the implementation of creating Azure Virtual Machines.<br />
 
 
