@@ -52,10 +52,12 @@ This tutorial outlines the implementation of creating Azure Virtual Machines.<br
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="844" height="628" alt="image" src="https://github.com/user-attachments/assets/6e31ca94-65f1-4e1d-83c9-36748a9d4736"
+"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+^Step 3 Follow my screenshot. Creating a Resource group is optional. For “pay as you go” text is my subscription I created manually (you do need a subscription in order to use Microsoft Azure so please create a subscription and name it whatever you want and use it for your subscription). For region pick any region you want, keep in mind i live in the “US West” and it did not give me an option for the “image” section. So just trial and error with regions, I have picked Canada Central and it worked for me fine. For image please select either windows 10 or windows 11, whatever is popping up on your drop down menu. Everything else doesn’t need much explanation, just copy that from my screenshot.
+
 </p>
 <br />
 
