@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img width="1498" height="364" alt="image" src="https://github.com/user-attachments/assets/5fe64060-6a0a-4212-a514-d2eb49a78b9c"
+"/>
 </p>
 
 <h1>On-premises Virtual Machines Deployed in the Cloud (Azure)</h1>
