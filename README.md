@@ -106,7 +106,7 @@ This tutorial outlines the implementation of creating Azure Virtual Machines.<br
 />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+^Step 8 Congratulations! You have created a virtual machine! Please note you can close it out if you are done and make sure to either stop or delete your virtual machine in Azure. If you forget to do that, you will be charged! Also even if you stop it you will still be charged but not as much compared to leaving it running.
 </p>
 <br />
 
