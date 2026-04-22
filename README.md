@@ -83,12 +83,22 @@ This tutorial outlines the implementation of creating Azure Virtual Machines.<br
 
 
 
+<img width="883" height="750" alt="image" src="https://github.com/user-attachments/assets/e0a66411-310a-4caf-9b46-b33b65458991"
+/>
+</p>
+<p>
+^Step 6 After you press create it will take a little bit of time to create the virtual machine. Once the virtual machine is created please go back to the search bar and search “virtual machine” or “vm” and then click on your virtual machine and you should similarly see my screenshot above.^
+</p>
+<br />
+
+
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
 
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
